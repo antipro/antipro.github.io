@@ -1,5 +1,3 @@
-# SQLife - a new Oracle/PostgreSQL client
-
 ## Brief Description
 SQLife is a lightweight and user-friendly SQL client designed for Oracle and PostgreSQL databases. Unlike many SQL clients, SQLife is optimized for MacOS while also providing robust support for Windows and Linux. It enables users to connect to databases, execute queries, and manage data efficiently.
 
@@ -19,6 +17,7 @@ SQLife is a lightweight and user-friendly SQL client designed for Oracle and Pos
 * Data Export/Import (SQL, CSV, Excel)
 * Data Viewing and Inline Editing
 * SQL History Tracking
+* Oracle Scheduler Jobs Management
 
 ## Managing Connections
 Connections are organized into customizable groups, allowing users to separate development, production, personal, or work-related connections. Temporary connections can be created without a name, and passwords are optional for user convenience, though using passwords is recommended for better security.
@@ -36,10 +35,12 @@ Messages and logs are displayed at the bottom of the interface for easy monitori
 
 ## Future Plans
 More features are planned for future releases, including:
-* Oracle Scheduler Jobs
 * File Differ and History
 * Enhanced Syntax Highlighting for SQL and Improved UI Element Highlighting for Better Readability
 * Customizable Keyboard Shortcuts
+
+## Lastest News
+* Oracle Scheduler Jobs Management is now available. Welcome to try it out!
 
 Download and Resources
 
